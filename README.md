@@ -1,3 +1,4 @@
+# Actividad: Fundamentos de redes
 ### 🧩 1. ¿Qué es cada dispositivo?
 
 | Concepto | Definición simple | Nivel técnico (breve) | Ejemplo real |
