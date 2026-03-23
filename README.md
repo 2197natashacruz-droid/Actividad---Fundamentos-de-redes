@@ -104,6 +104,8 @@ Aunque tu código esté perfecto, pueden pasar cosas como:
 - Un `fetch()` no es inmediato: viaja por múltiples dispositivos.
 - Muchas veces los bugs no son de código… son de infraestructura.
 
+![image alt](https://github.com/2197natashacruz-droid/Actividad---Fundamentos-de-redes/blob/main/ChatGPT%20Image%2023%20mar%202026%2C%2001_01_04%20p.m..png)
+
 ## 🧪  Caso práctico real
 
 **Escenario:**
